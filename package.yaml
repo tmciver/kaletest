@@ -24,6 +24,8 @@ dependencies:
 
 library:
   source-dirs: src
+  dependencies:
+  - kale >= 0.1.0
 
 executables:
   kaletest-exe:
